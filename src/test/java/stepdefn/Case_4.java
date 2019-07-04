@@ -51,7 +51,7 @@ public class Case_4 {
 	   {
 		   Assert.assertTrue(false);
 	   }
-		driver.close();
+		
 	}
 
 }
